@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+JNetUtils	KEYWORD1
+UrlEncoder	KEYWORD1
+UrlDecoder	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+encode	KEYWORD2
+decode	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
